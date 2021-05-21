@@ -1,0 +1,3 @@
+def scalaExample{  
+    println("Hello Scala")  
+}  
