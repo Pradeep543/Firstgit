@@ -1,3 +1,4 @@
 def scalaExample{  
-    println("Hello Scala")  
+    println("Hello Scala") 	
+	println("vasantha loves herself")
 }  
