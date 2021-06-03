@@ -1,4 +1,5 @@
 def scalaExample{  
     println("Hello Scala") 	
 	println("vasantha loves herself")
+	println("pradeep is very bad boy")
 }  
